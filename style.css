@@ -1,0 +1,32 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+form {
+  margin-bottom: 20px;
+  display: flex;
+  gap: 20px;
+}
+
+form input[type='text'] {
+  width: 140px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+table td,
+table th {
+  border: solid 1px #333;
+}
+
+.red-background {
+  background-color: red;
+}
+
+.info {
+  margin-top: 30px;
+  color: blue;
+}
