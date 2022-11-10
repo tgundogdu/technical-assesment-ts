@@ -1,3 +1,3 @@
-# technical-assesment-ts
+# Demo
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-njhnnm)
+[Demo on Stackblitz ⚡️](https://stackblitz.com/edit/react-ts-njhnnm)
